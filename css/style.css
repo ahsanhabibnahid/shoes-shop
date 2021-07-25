@@ -1,3 +1,6 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
 .navbar-custom-img{
     width: 300px;
 }
@@ -8,4 +11,35 @@
 
 .header-custom-bg{
     background-color: rgb(255, 249, 244);
+}
+
+.custom-h1{
+    font-size: 60px;
+}
+
+.custom-tomato-color{
+    color:rgb(250, 128, 76);
+}
+
+.custom-blue-color{
+    color: rgb(54, 57, 88);
+}
+
+.custom-img{
+    background-color: #f1f1f1;
+    border-radius: 20px;
+	height: 300px;
+
+}
+
+.custom-price-color{
+    color: rgb(250, 128, 76);
+}
+
+.custom-card{
+    border: 0;
+}
+
+.custom-rounded{
+    border-radius: 20px;
 }
